@@ -1,3 +1,5 @@
+This is a snapshot of the main Linuxptp project from https://github.com/richardcochran/linuxptp
+It's main use is for fetching code beyond v2.0
 
 * Introduction
 
